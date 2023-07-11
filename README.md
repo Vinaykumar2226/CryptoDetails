@@ -1,5 +1,6 @@
 Click Here to Visit The Site https://vinaykumar2226.github.io/CryptoDetails/
-
+Created With :React Js ,Api
+This website displays the details like Cryptocurrency price,Logo,24H performance,MarketCapacity
 
 # Getting Started with Create React App
 
